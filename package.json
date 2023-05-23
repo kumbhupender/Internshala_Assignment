@@ -1,0 +1,17 @@
+{
+  "name": "task-1",
+  "version": "1.0.0",
+  "description": "This is Task 1 Creation of API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Task_1"
+  ],
+  "author": "Bhupender kumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
